@@ -1,5 +1,5 @@
 {
-    "name": "twig/extensions",
+    "name": "twig/extensions/wordpress",
     "description": "Common additional features for Twig that do not directly belong in core",
     "keywords": ["i18n","text"],
     "homepage": "http://twig.sensiolabs.org/doc/extensions/index.html",
